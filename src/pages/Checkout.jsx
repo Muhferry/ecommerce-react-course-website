@@ -81,7 +81,7 @@ export default function Checkout() {
               className="btn btn-primary btn-large btn-block"
               onClick={placeOrder}
             >
-              Place Your Order
+              Place Order
             </button>
           </div>
         </div>
